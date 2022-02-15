@@ -5,4 +5,5 @@ using UnityEngine;
 public class AnimationStates 
 {
     public static string ANIMATION_RUN = "Run";
+    public static string ANIMATION_ATTACK = "Attack";
 }
